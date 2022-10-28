@@ -9,7 +9,7 @@
 <li>😄 Pronouns:He/Him</li>
 <li>⚡ Fun fact: I love learning about web programming.</li>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielvitooor&show_icons=true&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bielvitooor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
