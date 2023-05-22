@@ -7,7 +7,7 @@
 <li>💬 Ask me about C and programming logic</li>
 <li>📫 How to reach me: gabrielvitorsilvabrito@gmail.com</li>
 <li>😄 Pronouns:He/Him</li>
-<li>⚡ Fun fact: I love learning about web programming.</li>
+<li>⚡ Fun fact: I love learning about cibersecurtity.</li>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bielvitooor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
