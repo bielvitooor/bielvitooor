@@ -1,9 +1,9 @@
 <h1 align='center'>Hi there 👋</h1>
                                              <p align='center'><b>I am a bacharelor's student of information systems curse at IF Goiano - <i>Campus</i> Ceres</b>, and an  enthusiast  of technology👨🏽‍💻<align='center'/p>
   <div><img src="https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=82a1493bqsewij4tt943v7qaftrppz5kt2dobuekwcq69amt&rid=200w.gif&ct=g"</div>
-<div><li>🌱 I’m currently learning  Java.</li>
-<li>👯 I’m looking to collaborate on Java and Javascrit repos.</li>
-<li>🤔 I’m looking for help with Java project's.</li>
+<div><li>🌱 I’m currently learning  flutter.</li>
+<li>👯 I’m looking to collaborate on PHP repos.</li>
+<li>🤔 I’m looking for help with PHP project's.</li>
 <li>💬 Ask me about C and programming logic</li>
 <li>📫 How to reach me: gabrielvitorsilvabrito@gmail.com</li>
 <li>😄 Pronouns:He/Him</li>
